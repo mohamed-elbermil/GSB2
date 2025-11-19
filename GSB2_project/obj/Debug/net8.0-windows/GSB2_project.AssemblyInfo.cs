@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GSB2_project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c175d3202c1b4ad5b729c65b39f9d5c64d11d59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db5602efe0d197050dd95bb2bf40531081229eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("GSB2_project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GSB2_project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

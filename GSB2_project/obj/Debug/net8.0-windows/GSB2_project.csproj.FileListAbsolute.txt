@@ -31,3 +31,4 @@ C:\Users\Moham\source\repos\GSB2_project\GSB2_project\obj\Debug\net8.0-windows\r
 C:\Users\Moham\source\repos\GSB2_project\GSB2_project\obj\Debug\net8.0-windows\GSB2_project.pdb
 C:\Users\Moham\source\repos\GSB2_project\GSB2_project\obj\Debug\net8.0-windows\GSB2_project.genruntimeconfig.cache
 C:\Users\Moham\source\repos\GSB2_project\GSB2_project\obj\Debug\net8.0-windows\ref\GSB2_project.dll
+C:\Users\Moham\source\repos\GSB2_project\GSB2_project\obj\Debug\net8.0-windows\GSB2_project.sourcelink.json
